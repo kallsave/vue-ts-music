@@ -11,8 +11,6 @@ export default {
 </script>
 
 <style lang="scss" module>
-@import '@/common/scss/var/color.scss';
-
 .m-header {
   position: relative;
   height: 44px;
